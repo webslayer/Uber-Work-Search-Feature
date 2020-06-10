@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Uber-Work/static/css/main.5aeb0a69.chunk.css",
-    "main.js": "/Uber-Work/static/js/main.43495b18.chunk.js",
-    "main.js.map": "/Uber-Work/static/js/main.43495b18.chunk.js.map",
+    "main.js": "/Uber-Work/static/js/main.7096eba3.chunk.js",
+    "main.js.map": "/Uber-Work/static/js/main.7096eba3.chunk.js.map",
     "runtime-main.js": "/Uber-Work/static/js/runtime-main.196ffc47.js",
     "runtime-main.js.map": "/Uber-Work/static/js/runtime-main.196ffc47.js.map",
     "static/js/2.a3c82928.chunk.js": "/Uber-Work/static/js/2.a3c82928.chunk.js",
     "static/js/2.a3c82928.chunk.js.map": "/Uber-Work/static/js/2.a3c82928.chunk.js.map",
     "index.html": "/Uber-Work/index.html",
-    "precache-manifest.705ab5011367e2164db121e1e97e642a.js": "/Uber-Work/precache-manifest.705ab5011367e2164db121e1e97e642a.js",
+    "precache-manifest.235e11dac31eaf090883445d974d1c93.js": "/Uber-Work/precache-manifest.235e11dac31eaf090883445d974d1c93.js",
     "service-worker.js": "/Uber-Work/service-worker.js",
     "static/css/main.5aeb0a69.chunk.css.map": "/Uber-Work/static/css/main.5aeb0a69.chunk.css.map",
     "static/js/2.a3c82928.chunk.js.LICENSE.txt": "/Uber-Work/static/js/2.a3c82928.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.196ffc47.js",
     "static/js/2.a3c82928.chunk.js",
     "static/css/main.5aeb0a69.chunk.css",
-    "static/js/main.43495b18.chunk.js"
+    "static/js/main.7096eba3.chunk.js"
   ]
 }
