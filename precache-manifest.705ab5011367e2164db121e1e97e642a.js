@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4598b2bc693d521f38c27e54a6778124",
+    "revision": "753e6dd4ebeb61e20e1568046a28ddb9",
     "url": "/Uber-Work/index.html"
   },
   {
-    "revision": "2f84ecb4136fabe5ee92",
+    "revision": "10a1eb53b8347b532f8d",
     "url": "/Uber-Work/static/css/main.5aeb0a69.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Uber-Work/static/js/2.a3c82928.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2f84ecb4136fabe5ee92",
-    "url": "/Uber-Work/static/js/main.7096eba3.chunk.js"
+    "revision": "10a1eb53b8347b532f8d",
+    "url": "/Uber-Work/static/js/main.43495b18.chunk.js"
   },
   {
     "revision": "48c047b6aea10343bf01",
