@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4598b2bc693d521f38c27e54a6778124",
+    "revision": "93bc5c0ca082572de705548f4124235e",
     "url": "/Uber-Work/index.html"
   },
   {
