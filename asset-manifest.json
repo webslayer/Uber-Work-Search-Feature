@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/webslayer.github.io/Uber-Work/static/css/main.5aeb0a69.chunk.css",
-    "main.js": "/webslayer.github.io/Uber-Work/static/js/main.930ea2ff.chunk.js",
-    "main.js.map": "/webslayer.github.io/Uber-Work/static/js/main.930ea2ff.chunk.js.map",
-    "runtime-main.js": "/webslayer.github.io/Uber-Work/static/js/runtime-main.a1e1134e.js",
-    "runtime-main.js.map": "/webslayer.github.io/Uber-Work/static/js/runtime-main.a1e1134e.js.map",
-    "static/js/2.a3c82928.chunk.js": "/webslayer.github.io/Uber-Work/static/js/2.a3c82928.chunk.js",
-    "static/js/2.a3c82928.chunk.js.map": "/webslayer.github.io/Uber-Work/static/js/2.a3c82928.chunk.js.map",
-    "index.html": "/webslayer.github.io/Uber-Work/index.html",
-    "precache-manifest.384e64c49efcbbf282441e8a2783d929.js": "/webslayer.github.io/Uber-Work/precache-manifest.384e64c49efcbbf282441e8a2783d929.js",
-    "service-worker.js": "/webslayer.github.io/Uber-Work/service-worker.js",
-    "static/css/main.5aeb0a69.chunk.css.map": "/webslayer.github.io/Uber-Work/static/css/main.5aeb0a69.chunk.css.map",
-    "static/js/2.a3c82928.chunk.js.LICENSE.txt": "/webslayer.github.io/Uber-Work/static/js/2.a3c82928.chunk.js.LICENSE.txt"
+    "main.css": "/Uber-Work/static/css/main.5aeb0a69.chunk.css",
+    "main.js": "/Uber-Work/static/js/main.7096eba3.chunk.js",
+    "main.js.map": "/Uber-Work/static/js/main.7096eba3.chunk.js.map",
+    "runtime-main.js": "/Uber-Work/static/js/runtime-main.196ffc47.js",
+    "runtime-main.js.map": "/Uber-Work/static/js/runtime-main.196ffc47.js.map",
+    "static/js/2.a3c82928.chunk.js": "/Uber-Work/static/js/2.a3c82928.chunk.js",
+    "static/js/2.a3c82928.chunk.js.map": "/Uber-Work/static/js/2.a3c82928.chunk.js.map",
+    "index.html": "/Uber-Work/index.html",
+    "precache-manifest.235e11dac31eaf090883445d974d1c93.js": "/Uber-Work/precache-manifest.235e11dac31eaf090883445d974d1c93.js",
+    "service-worker.js": "/Uber-Work/service-worker.js",
+    "static/css/main.5aeb0a69.chunk.css.map": "/Uber-Work/static/css/main.5aeb0a69.chunk.css.map",
+    "static/js/2.a3c82928.chunk.js.LICENSE.txt": "/Uber-Work/static/js/2.a3c82928.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a1e1134e.js",
+    "static/js/runtime-main.196ffc47.js",
     "static/js/2.a3c82928.chunk.js",
     "static/css/main.5aeb0a69.chunk.css",
-    "static/js/main.930ea2ff.chunk.js"
+    "static/js/main.7096eba3.chunk.js"
   ]
 }
